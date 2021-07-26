@@ -1,8 +1,8 @@
 ## Today-I-Learned(Aprendi HJ)
 
--Final de Semana( Sabado e Domingo): Mexer no Git e Github
+-Final de Semana( Sabado e Domingo): Mexer no Git
 
--Segunda: criei meu primeiro Repositorio
+-Segunda: aprendi um pouco de GitHub e criei meu primeiro Repositorio
 
 -
 
