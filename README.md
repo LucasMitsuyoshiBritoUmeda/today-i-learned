@@ -4,7 +4,7 @@
 
 -Segunda: aprendi um pouco de GitHub e criei meu primeiro Repositorio
 
--
+- Aprendendo Mais sobre javascript
 
 -
 
