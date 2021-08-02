@@ -6,7 +6,7 @@
 
 - Aprendendo Mais sobre javascript
 
--
+- Descobri O Grasshopper e aprendi a criar caixar coloridas com 'drawBox' e tambem a criar um fator aleatorio com o 'pickRandom', e no final de semana, aprendi mais sobre as         variaveis, arrays e functions do JS
 
 -
 
